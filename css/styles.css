@@ -29,7 +29,7 @@ ol {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.03rem;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -37,7 +37,7 @@ ol {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
   line-height: 1.5;
-  letter-spacing: 0.03rem;
+  letter-spacing: 0.03em;
 }
 
 .header-menu-link {
@@ -132,7 +132,7 @@ ol {
   text-transform: capitalize;
 }
 
-.mark {
+.team-list {
   background-color: #ffffff;
 }
 
@@ -167,7 +167,7 @@ ol {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
